@@ -10,4 +10,4 @@ Implemented Algorithms:
 - Support Vector Machines (SVM) ➖  
 - Random Forests (RF) 🌲  
 
-6666666
+666666
